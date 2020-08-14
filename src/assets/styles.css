@@ -1,0 +1,48 @@
+@import "./reset.css";
+
+body {
+  overflow: hidden;
+}
+
+.top {
+  display: flex;
+  flex-direction: row;
+}
+
+.top .top__top1 {
+  width: 770px;
+  height: 200px;
+
+  background-color: #74b9ff;
+}
+
+.top .top__top2 {
+  width: 770px;
+  height: 200px;
+
+  background-color: #81ecec;
+}
+
+.main {
+  display: flex;
+  flex-direction: row;
+}
+
+.main .main__main1 {
+  width: 770px;
+  height: 60vh;
+
+  background-color: darkcyan;
+}
+
+.main .main__main2 {
+  width: 770px;
+  height: 60vh;
+
+  background-color: darkkhaki;
+}
+
+.bottom {
+  display: flex;
+  flex-direction: row;
+}
