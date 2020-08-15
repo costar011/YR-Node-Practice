@@ -46,3 +46,17 @@ body {
   display: flex;
   flex-direction: row;
 }
+
+.bottom .bottom__bottom1 {
+  width: 800px;
+  height: 40vh;
+
+  background-color: darkmagenta;
+}
+
+.bottom .bottom__bottom2 {
+  width: 800px;
+  height: 40vh;
+
+  background-color: darkseagreen;
+}
